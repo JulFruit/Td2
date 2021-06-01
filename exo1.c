@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int 
+int main(){
+
 int a;
 a = 5;
-printf("Hello world\n a= %d",a);
+printf("Hello world\n a= %d",a);}
